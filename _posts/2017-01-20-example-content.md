@@ -25,11 +25,7 @@ Topics will be mostly focused on Infosec and IT in general, however there may ma
 
 ## Things you may see on this blog.
 
-***
-
-Topics may inclused but are not limited to:
-
-
+Topics may inclused but are not limited to:  
 
 - HTB (hack the box) write ups
 
