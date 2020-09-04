@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Bashincajun
 permalink: /about/
 published: true
 ---
@@ -18,8 +18,20 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Some heading 
+I have been in IT since around 2006 back when computers still had a floppy drive and Blackberrys were the standard for "smartphoen".  During my time in the fieled I have worked in several areas, everything from Desktop support, Network Admin, Web Administrator, System archtect and a few more in between. Even filled multiple of those roles at the same time.  I ventured over into infosec a few years ago and have worked on both Red teams and Blue teams.  My current role is more of a Purple team role as I work hand in had with with both teams and supervise a team of my own.
+  
+I hope that I am able to share the level of knowledge that has been shared with me over the years.  My goal with this blog effort is to be a postive influnce in IT and Infosec communities and to find a way to give back to the community that has helped me grow in my various roles over the years. 
 
-I'll alert the crew. Sure. You'd be surprised how far a hug goes with Geordi, or Worf. Did you come here for something in particular or just general Riker-bashing? You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice. Your shields were failing, sir. Well, that's certainly good to know. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. And blowing into maximum warp speed, you appeared for an instant to be in two places at once. How long can two people talk about nothing? I recommend you don't fire until you're within 40,000 kilometers. Congratulations - you just destroyed the Enterprise. Worf, It's better than music. It's jazz. Yes, absolutely, I do indeed concur, wholeheartedly! What's a knock-out like you doing in a computer-generated gin joint like this? I can't. As much as I care about you, my first duty is to the ship. Some days you get the bear, and some days the bear gets you.
+## Check out DeadPixelSec
+It is an awesome positive community, all are welcome no matter your skill level:  
+[Deadpixelsec Home](https://deadpixelsec.com/)  
+[Deadpixelsec Discord](https://discord.com/invite/EJJRjZD/)
+
+***
+  
+#### This blog is powered by Jekyll and us using the theme Leaf.
+
+You can find the source code for Jekyll at GitHub:
+[jekyll](https://github.com/jekyll/jekyll)
 
 </div>
