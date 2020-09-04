@@ -11,8 +11,6 @@ overlay: green
 published: true
 ---
 <p align="center">
-***
-
 This page is a place holder for my future blog. My creative process is quite slow and often non exisitent, however i decided to create a blog to help improve that process. I also wanted to find a way to share things i have learned and/or done with others in hopes of encouraging people or just helping them get started in infosec.
 
 ***
