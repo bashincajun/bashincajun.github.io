@@ -10,7 +10,7 @@ blog:
                                My corner of the internet to share what little knowledge that i possess.
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  logo_path                  : "assets/img/test.svg" # path to logo file
   search_path                : "bashincajun.github.io"
                                # needed for searchbox in archive page
   hero_layout                : false # turn on hero layout for blog and posts
