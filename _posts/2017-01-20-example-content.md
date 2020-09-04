@@ -29,9 +29,7 @@ Topics may inclused but are not limited to:
 
 - HTB (hack the box) write ups
 
-- Try hackme reviews
-
-- raspberry pi Projects
+- Hardware Projects (Pi, IOT, Hackerboxes)
 
 - Eventually 3d printing
 
@@ -41,9 +39,9 @@ Topics may inclused but are not limited to:
 
 - The occasional keyboard smashing rant
 
-- and Probably some food blogs as I love to eat
+- Probably some food blogs as I love to eat  
 
-- and more.
+- and hope fully more.
 
 
 This blog will very much be a journey as i am new to Markdown so please forgive any formating errors I will do my best to overcome the learning curve in this format of writing.
