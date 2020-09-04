@@ -10,7 +10,7 @@ hero: https://source.unsplash.com/collection/145103/
 overlay: green
 published: true
 ---
-<p align="center">
+***
 This page is a place holder for my future blog. My creative process is quite slow and often non exisitent, however i decided to create a blog to help improve that process. I also wanted to find a way to share things i have learned and/or done with others in hopes of encouraging people or just helping them get started in infosec.
 
 ***
@@ -58,7 +58,7 @@ It is an awesome positive community, all are welcome no matter your skill level
 [Deadpixelsec Home](https://deadpixelsec.com/)  
   
 [Deadpixelsec Discord](https://discord.com/invite/EJJRjZD/)
-</p>
+
 *[HTML]: HyperText Markup Language
 *[CSS]: Cascading Style Sheets
 *[JS]: JavaScript
